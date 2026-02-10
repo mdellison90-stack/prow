@@ -31,7 +31,7 @@ require (
 	github.com/felixge/fgprof v0.9.1
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/fsouza/fake-gcs-server v1.19.4
-	github.com/go-git/go-git/v5 v5.14.0
+	github.com/go-git/go-git/v5 v5.16.5
 	github.com/go-test/deep v1.1.1
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang/glog v1.2.5
@@ -102,7 +102,7 @@ require (
 	github.com/blendle/zapdriver v1.3.1 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/cloudflare/circl v1.6.0 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/cyphar/filepath-securejoin v0.4.1 // indirect
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
